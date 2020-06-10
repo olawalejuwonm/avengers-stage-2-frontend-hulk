@@ -3,4 +3,4 @@
 
 -  [@ifatoki](https://github.com/ifatoki)
 
--  [@oghenetega](https://github.com/Tegadaniel)
+- [@chideraani](https://github.com/chideraani)
