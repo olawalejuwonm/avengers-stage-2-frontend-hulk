@@ -5,4 +5,4 @@
 
 - [@chideraani](https://github.com/chideraani)
 
- [@oghenetega](https://github.com/Tegadaniel)
+- [@oghenetega](https://github.com/Tegadaniel)
