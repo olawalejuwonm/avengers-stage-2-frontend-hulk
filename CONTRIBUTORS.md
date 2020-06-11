@@ -8,3 +8,5 @@
 - [@oghenetega](https://github.com/Tegadaniel)
 
 - [@akinyemi](https://github.com/akinyemi)
+
+-[@ChinonsoIke](https://github.com/ChinonsoIke)
