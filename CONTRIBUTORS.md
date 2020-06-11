@@ -9,4 +9,5 @@
 
 - [@akinyemi](https://github.com/akinyemi)
 
-- [@Olawalejuwonm](https://github.com/olawalejuwonm)
+-[@ChinonsoIke](https://github.com/ChinonsoIke)
+
